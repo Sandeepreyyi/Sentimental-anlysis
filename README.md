@@ -1,1 +1,2 @@
 # Sentimental-anlysis
+The project's main goal is to classify user-provided sentences as positive or negative sentiments. It employs Multinomial Naive Bayes (MNB) and Logistic Regression for initial classification and then feeds labeled data into a sequential Recurrent Neural Network (RNN). This approach captures local context and long-term dependencies, resulting in more accurate and nuanced sentiment analysis. By combining traditional machine learning with RNNs, the system effectively interprets subtle emotional cues, delivering proficient sentiment analysis results.
